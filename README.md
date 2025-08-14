@@ -1,9 +1,3 @@
-<!--
-✅ HOW TO USE
-1) Replace YOUR_GITHUB_USERNAME with your GitHub username (everywhere).
-2) Update email/social links (search for YOUR_EMAIL and #).
-3) Optional: Swap/trim badges, sections, and projects to taste.
--->
 
 <h3 align="center">
   Hey there, I'm <a href="#">Md. Shadman Saquib</a> 👋
