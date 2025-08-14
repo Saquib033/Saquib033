@@ -4,11 +4,10 @@
 </h3>
 
 <p align="center">
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Saquib033/count.svg"/>
-  </div>
+  <b>Visitor Count</b><br>
+  <img src="https://komarev.com/ghpvc/?username=Saquib033&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count"/>
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
